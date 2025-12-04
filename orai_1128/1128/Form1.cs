@@ -142,5 +142,84 @@ namespace _1128
                 richTextBox1.Text += $"\n3. Feladat\n\tA magyar versenyző nem jutott be a kűrbe.";
             }
         }
+
+        private double ÖsszPontszám(string nev)
+        {
+            double pontszam = 0d;
+            foreach (var versenyzo in Versenyzok)
+            {
+                if (versenyzo.Nev.ToLower() == nev.ToLower())
+                {
+                    pontszam += versenyzo.Komponens;
+                    pontszam += versenyzo.Technikai;
+                    pontszam -= versenyzo.Levonas;
+                }
+            }
+            foreach (var versenyzo in Dontosok)
+            {
+                if (versenyzo.Nev.ToLower() == nev.ToLower())
+                {
+                    pontszam += versenyzo.Komponens;
+                    pontszam += versenyzo.Technikai;
+                    pontszam -= versenyzo.Levonas;
+                }
+            }
+            return pontszam;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Versenyzo keresett = null;
+            foreach (var item in Versenyzok)
+            {
+                if (item.Nev.ToLower() == textBoxNev.Text.ToLower())
+                {
+                    keresett = item;    
+                }
+            }
+            if (keresett!=null)
+            {
+                richTextBox1.Text += "\n5. Feladat";
+                richTextBox1.Text += $"\n\t Keresett versenyző: {keresett.Nev}";
+                richTextBox1.Text += "\n6. Feladat";
+                richTextBox1.Text += $"\n\tA versenyző összpontszáma: {ÖsszPontszám(keresett.Nev)}";
+            }
+            else
+            {
+                richTextBox1.Text += "\n5.Feladat";
+                richTextBox1.Text += $"\n\tKeresett versenyző neve: {textBoxNev.Text}";
+                richTextBox1.Text += "\n\tIlyen nevű indulónem volt";
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Dictionary<string,int> orszagok = new Dictionary<string,int>();
+
+            foreach (var item in Dontosok)
+            {
+                if (orszagok.ContainsKey(item.Orszag))
+                {
+                    orszagok[item.Orszag] += 1;
+                }
+                else
+                {
+                    orszagok.Add(item.Orszag, 1);
+                }
+            }
+            richTextBox1.Text += "\n7.Feladat";
+            foreach (var item in orszagok)
+            {
+                if (item.Value > 1)
+                {
+                    richTextBox1.Text += $"\n\t{item.Key}: {item.Value} versenyző";
+                }
+            }
+        }
     }
 }
