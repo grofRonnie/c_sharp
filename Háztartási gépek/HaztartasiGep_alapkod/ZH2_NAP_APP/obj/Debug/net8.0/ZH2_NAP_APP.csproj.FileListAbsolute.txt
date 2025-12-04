@@ -1,0 +1,14 @@
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\bin\Debug\net8.0\ZH2_NAP_APP.exe
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\bin\Debug\net8.0\ZH2_NAP_APP.deps.json
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\bin\Debug\net8.0\ZH2_NAP_APP.runtimeconfig.json
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\bin\Debug\net8.0\ZH2_NAP_APP.dll
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\bin\Debug\net8.0\ZH2_NAP_APP.pdb
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\ZH2_NAP_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\ZH2_NAP_APP.AssemblyInfoInputs.cache
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\ZH2_NAP_APP.AssemblyInfo.cs
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\ZH2_NAP_APP.csproj.CoreCompileInputs.cache
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\ZH2_NAP_APP.dll
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\refint\ZH2_NAP_APP.dll
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\ZH2_NAP_APP.pdb
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\ZH2_NAP_APP.genruntimeconfig.cache
+C:\Users\EKKE\Troll Ede\EKKE\Tantárgyak\Magasszintű programozási nyelvek 2\ZH\2024 tavasz\ZH2_NAP_APP\ZH2_NAP_APP\obj\Debug\net8.0\ref\ZH2_NAP_APP.dll

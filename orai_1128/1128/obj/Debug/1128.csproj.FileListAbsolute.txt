@@ -1,0 +1,11 @@
+H:\Asztali\25-26\orai_1128\1128\bin\Debug\1128.exe.config
+H:\Asztali\25-26\orai_1128\1128\bin\Debug\1128.exe
+H:\Asztali\25-26\orai_1128\1128\bin\Debug\1128.pdb
+H:\Asztali\25-26\orai_1128\1128\obj\Debug\1128.csproj.AssemblyReference.cache
+H:\Asztali\25-26\orai_1128\1128\obj\Debug\_1128.Form1.resources
+H:\Asztali\25-26\orai_1128\1128\obj\Debug\_1128.Properties.Resources.resources
+H:\Asztali\25-26\orai_1128\1128\obj\Debug\1128.csproj.GenerateResource.cache
+H:\Asztali\25-26\orai_1128\1128\obj\Debug\1128.csproj.CoreCompileInputs.cache
+H:\Asztali\25-26\orai_1128\1128\obj\Debug\1128.exe
+H:\Asztali\25-26\orai_1128\1128\obj\Debug\1128.pdb
+H:\Asztali\25-26\orai_1128\1128\obj\Debug\1128.exe.config

@@ -1,0 +1,11 @@
+H:\Asztali\25-26\EU_Mihalics_Miron\bin\Debug\EU_Mihalics_Miron.exe.config
+H:\Asztali\25-26\EU_Mihalics_Miron\bin\Debug\EU_Mihalics_Miron.exe
+H:\Asztali\25-26\EU_Mihalics_Miron\bin\Debug\EU_Mihalics_Miron.pdb
+H:\Asztali\25-26\EU_Mihalics_Miron\obj\Debug\EU_Mihalics_Miron.csproj.AssemblyReference.cache
+H:\Asztali\25-26\EU_Mihalics_Miron\obj\Debug\EU_Mihalics_Miron.Form1.resources
+H:\Asztali\25-26\EU_Mihalics_Miron\obj\Debug\EU_Mihalics_Miron.Properties.Resources.resources
+H:\Asztali\25-26\EU_Mihalics_Miron\obj\Debug\EU_Mihalics_Miron.csproj.GenerateResource.cache
+H:\Asztali\25-26\EU_Mihalics_Miron\obj\Debug\EU_Mihalics_Miron.csproj.CoreCompileInputs.cache
+H:\Asztali\25-26\EU_Mihalics_Miron\obj\Debug\EU_Mihalics_Miron.exe
+H:\Asztali\25-26\EU_Mihalics_Miron\obj\Debug\EU_Mihalics_Miron.pdb
+H:\Asztali\25-26\EU_Mihalics_Miron\obj\Debug\EU_Mihalics_Miron.exe.config

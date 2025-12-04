@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|h:\\h\u00E1ztart\u00E1si g\u00E9pek\\haztartasigep_alapkod\\zh2_nap_app\\mosogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|solutionrelative:zh2_nap_app\\mosogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|h:\\h\u00E1ztart\u00E1si g\u00E9pek\\haztartasigep_alapkod\\zh2_nap_app\\nagygep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|solutionrelative:zh2_nap_app\\nagygep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|h:\\h\u00E1ztart\u00E1si g\u00E9pek\\haztartasigep_alapkod\\zh2_nap_app\\gyarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|solutionrelative:zh2_nap_app\\gyarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|h:\\h\u00E1ztart\u00E1si g\u00E9pek\\haztartasigep_alapkod\\zh2_nap_app\\gyartonemtalalhatoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|solutionrelative:zh2_nap_app\\gyartonemtalalhatoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|h:\\h\u00E1ztart\u00E1si g\u00E9pek\\haztartasigep_alapkod\\zh2_nap_app\\imosogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|solutionrelative:zh2_nap_app\\imosogep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|h:\\h\u00E1ztart\u00E1si g\u00E9pek\\haztartasigep_alapkod\\zh2_nap_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|solutionrelative:zh2_nap_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|h:\\h\u00E1ztart\u00E1si g\u00E9pek\\haztartasigep_alapkod\\zh2_nap_app\\mosogepprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD665967-0544-4991-90F5-4527F1D63B16}|ZH2_NAP_APP\\ZH2_NAP_APP.csproj|solutionrelative:zh2_nap_app\\mosogepprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mosogep.cs",
+              "DocumentMoniker": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\Mosogep.cs",
+              "RelativeDocumentMoniker": "ZH2_NAP_APP\\Mosogep.cs",
+              "ToolTip": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\Mosogep.cs",
+              "RelativeToolTip": "ZH2_NAP_APP\\Mosogep.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:16:30.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GyartoNemTalalhatoException.cs",
+              "DocumentMoniker": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\GyartoNemTalalhatoException.cs",
+              "RelativeDocumentMoniker": "ZH2_NAP_APP\\GyartoNemTalalhatoException.cs",
+              "ToolTip": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\GyartoNemTalalhatoException.cs",
+              "RelativeToolTip": "ZH2_NAP_APP\\GyartoNemTalalhatoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:45:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMosogep.cs",
+              "DocumentMoniker": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\IMosogep.cs",
+              "RelativeDocumentMoniker": "ZH2_NAP_APP\\IMosogep.cs",
+              "ToolTip": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\IMosogep.cs",
+              "RelativeToolTip": "ZH2_NAP_APP\\IMosogep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:26:10.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\Program.cs",
+              "RelativeDocumentMoniker": "ZH2_NAP_APP\\Program.cs",
+              "ToolTip": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\Program.cs",
+              "RelativeToolTip": "ZH2_NAP_APP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:23:44.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nagygep.cs",
+              "DocumentMoniker": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\Nagygep.cs",
+              "RelativeDocumentMoniker": "ZH2_NAP_APP\\Nagygep.cs",
+              "ToolTip": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\Nagygep.cs",
+              "RelativeToolTip": "ZH2_NAP_APP\\Nagygep.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:23:42.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gyarto.cs",
+              "DocumentMoniker": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\Gyarto.cs",
+              "RelativeDocumentMoniker": "ZH2_NAP_APP\\Gyarto.cs",
+              "ToolTip": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\Gyarto.cs",
+              "RelativeToolTip": "ZH2_NAP_APP\\Gyarto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:23:32.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MosogepProgram.cs",
+              "DocumentMoniker": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\MosogepProgram.cs",
+              "RelativeDocumentMoniker": "ZH2_NAP_APP\\MosogepProgram.cs",
+              "ToolTip": "H:\\H\u00E1ztart\u00E1si g\u00E9pek\\HaztartasiGep_alapkod\\ZH2_NAP_APP\\MosogepProgram.cs",
+              "RelativeToolTip": "ZH2_NAP_APP\\MosogepProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:23:28.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
