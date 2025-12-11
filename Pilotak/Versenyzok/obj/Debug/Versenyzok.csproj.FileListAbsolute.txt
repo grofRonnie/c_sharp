@@ -1,0 +1,11 @@
+H:\Asztali\25-26\Pilotak\Versenyzok\bin\Debug\Versenyzok.exe.config
+H:\Asztali\25-26\Pilotak\Versenyzok\bin\Debug\Versenyzok.exe
+H:\Asztali\25-26\Pilotak\Versenyzok\bin\Debug\Versenyzok.pdb
+H:\Asztali\25-26\Pilotak\Versenyzok\obj\Debug\Versenyzok.csproj.AssemblyReference.cache
+H:\Asztali\25-26\Pilotak\Versenyzok\obj\Debug\Versenyzok.Form1.resources
+H:\Asztali\25-26\Pilotak\Versenyzok\obj\Debug\Versenyzok.Properties.Resources.resources
+H:\Asztali\25-26\Pilotak\Versenyzok\obj\Debug\Versenyzok.csproj.GenerateResource.cache
+H:\Asztali\25-26\Pilotak\Versenyzok\obj\Debug\Versenyzok.csproj.CoreCompileInputs.cache
+H:\Asztali\25-26\Pilotak\Versenyzok\obj\Debug\Versenyzok.exe
+H:\Asztali\25-26\Pilotak\Versenyzok\obj\Debug\Versenyzok.pdb
+H:\Asztali\25-26\Pilotak\Versenyzok\obj\Debug\Versenyzok.exe.config
